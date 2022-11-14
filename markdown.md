@@ -2,7 +2,7 @@
 ## Non ordonnee
 
 - first place
--- second place
+- second place
 
 ## ordonnee
 
