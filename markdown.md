@@ -1,4 +1,4 @@
-** Dominique **
+**Dominique**
 # Unordered list
 
 * Dominique
@@ -52,7 +52,7 @@
 </script>
 ```
 
-** Nour **
+**Nour**
 
 # Une liste non ordonnée #
 
@@ -112,7 +112,7 @@
 
 ```
 
-** Hugo **
+**Hugo**
 
 # List
 ## Non ordonnee
@@ -145,7 +145,7 @@ Voici l'url de mon [ancien github](https://github.com/LeGodurix19)
 </script>
 ```
 
-** Milo **
+**Milo**
 
 # Liste à puces
 
